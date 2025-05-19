@@ -1,7 +1,8 @@
-Sure! Here's an **all-in-one Markdown file** that includes both the **default WSL `.bashrc` content** and its **explanation/documentation** in a single file — perfect for GitHub as `README.md`.
+**default WSL `.bashrc` content**
 ````markdown
 # 🐧 Default `.bashrc` for WSL (Windows Subsystem for Linux)
-This repository contains the **default `.bashrc` file** used in **WSL (Ubuntu-based distributions)**. The `.bashrc` file is executed for **interactive non-login shells**, providing shell behavior customization, aliases, colors, history settings, and more.
+This repository contains the **default `.bashrc` file** used in **WSL (Ubuntu-based distributions)**. The `.bashrc` file is executed
+for **interactive non-login shells**, providing shell behavior customization, aliases, colors, history settings, and more.
 ---
 ## 📁 File Location
 ```bash
