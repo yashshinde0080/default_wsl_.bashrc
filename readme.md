@@ -1,5 +1,5 @@
 **default WSL `.bashrc` content**
-````markdown
+
 # 🐧 Default `.bashrc` for WSL (Windows Subsystem for Linux)
 This repository contains the **default `.bashrc` file** used in **WSL (Ubuntu-based distributions)**. The `.bashrc` file is executed
 for **interactive non-login shells**, providing shell behavior customization, aliases, colors, history settings, and more.
